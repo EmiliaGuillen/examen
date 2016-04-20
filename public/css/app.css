@@ -1,0 +1,124 @@
+
+/*Selectores CSS3
+clases "."
+clases "#"
+etiqueta"tag ej: ul, div"
+
+
+*/
+#slider-libreria, #section2 {
+   margin-top:  30px ;
+
+   
+}
+
+.slider .indicators .indicator-item.active {
+  background-color: #ad1457;
+}
+
+.active-item{
+	background-color:pink;
+}
+
+p{
+	text-align: justify;
+	font-style: Georgia;
+	font-size: 20px ;
+
+}
+
+.bnt-social{
+	font-size: 30px ;
+	margin-left: 20px ;
+
+}
+
+#cuerpo{
+	/*margin-bottom: 80px;*/
+	margin-top: 10px;
+	position:relative;
+	background-size: 100% ;
+
+}
+body{
+	/*background-image: ("img/back.jpg");*/
+	margin-bottom: 100px;
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    background-color: #fce4ec;
+    position: relative;
+}
+
+#acerca{
+	/*margin-top: 40px;*/
+	position: relative;
+	font-size: 30px;
+	text-align: justify;
+	font-weight:bold;
+	font-style: italic;
+	background-size: 100% ;
+	
+	
+}
+#foto{
+	margin-top:22%;
+	margin-left: 30px;
+    position: relative;
+   size:10px;
+}
+
+ .form-acceso{
+ 	margin-top: 50px;
+ 	height: 290px;
+ 	opacity: 0.9;
+ 	filter: alpha(opacity=50);
+ } 
+
+ #acp{
+ 	margin-top: 50px;
+ 	height: 180px;
+ 	opacity: 0.9;
+ 	filter: alpha(opacity=50);
+
+ }
+ #t{
+ 	margin-top: 200px;
+
+ }
+ #tb{
+margin-top: 30px;
+margin-right: -347px;
+ }
+
+  #tb2{
+margin-top: -23px;
+margin-right: -347px;
+ }
+
+#tb3{
+margin-top: -64px;
+margin-right: -347px;
+ }
+
+ #tb4{
+margin-top: -26px;
+margin-right: -347px;
+ }
+
+
+ #i2{
+ 	margin-top: -40px;
+ }
+  #i3{
+ 	margin-top: -20px;
+ }
+.error{
+	color:red;
+	padding: 3px;
+}
+span{
+	color:pink !important;
+}
+
+
+
